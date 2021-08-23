@@ -1,0 +1,634 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "datetime,pytz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime.pytz",
+        "description": "datetime.pytz",
+        "detail": "datetime.pytz",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "UnixTimeStampField",
+        "importPath": "unixtimestampfield.fields",
+        "description": "unixtimestampfield.fields",
+        "isExtraImport": true,
+        "detail": "unixtimestampfield.fields",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Sivan",
+        "importPath": "axeapp.models",
+        "description": "axeapp.models",
+        "isExtraImport": true,
+        "detail": "axeapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Forest",
+        "importPath": "axeapp.models",
+        "description": "axeapp.models",
+        "isExtraImport": true,
+        "detail": "axeapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Arctic",
+        "importPath": "axeapp.models",
+        "description": "axeapp.models",
+        "isExtraImport": true,
+        "detail": "axeapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mystic",
+        "importPath": "axeapp.models",
+        "description": "axeapp.models",
+        "isExtraImport": true,
+        "detail": "axeapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Genesis",
+        "importPath": "axeapp.models",
+        "description": "axeapp.models",
+        "isExtraImport": true,
+        "detail": "axeapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "localdate",
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "isExtraImport": true,
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "now",
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "isExtraImport": true,
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Models",
+        "kind": 5,
+        "importPath": "axeapp.admin",
+        "description": "axeapp.admin",
+        "peekOfCode": "Models = (Sivan,Forest,Arctic,Mystic,Genesis)\nadmin.site.register(Models)",
+        "detail": "axeapp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AxeappConfig",
+        "kind": 6,
+        "importPath": "axeapp.apps",
+        "description": "axeapp.apps",
+        "peekOfCode": "class AxeappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'axeapp'",
+        "detail": "axeapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Sivan",
+        "kind": 6,
+        "importPath": "axeapp.models",
+        "description": "axeapp.models",
+        "peekOfCode": "class Sivan(models.Model):\n    sivanna=models.TextField(blank=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.updated_at)\nclass Forest(models.Model):\n    Forest=models.TextField(blank=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.updated_at)",
+        "detail": "axeapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Forest",
+        "kind": 6,
+        "importPath": "axeapp.models",
+        "description": "axeapp.models",
+        "peekOfCode": "class Forest(models.Model):\n    Forest=models.TextField(blank=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.updated_at)\nclass Arctic(models.Model):\n    Arctic=models.TextField(blank=True)\n    updated_at =models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.updated_at)",
+        "detail": "axeapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Arctic",
+        "kind": 6,
+        "importPath": "axeapp.models",
+        "description": "axeapp.models",
+        "peekOfCode": "class Arctic(models.Model):\n    Arctic=models.TextField(blank=True)\n    updated_at =models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.updated_at)\nclass Mystic(models.Model):\n    Mystic=models.TextField(blank=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.updated_at)",
+        "detail": "axeapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mystic",
+        "kind": 6,
+        "importPath": "axeapp.models",
+        "description": "axeapp.models",
+        "peekOfCode": "class Mystic(models.Model):\n    Mystic=models.TextField(blank=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.updated_at)\nclass Genesis(models.Model):\n    Genesis=models.TextField(blank=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.updated_at)",
+        "detail": "axeapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Genesis",
+        "kind": 6,
+        "importPath": "axeapp.models",
+        "description": "axeapp.models",
+        "peekOfCode": "class Genesis(models.Model):\n    Genesis=models.TextField(blank=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.updated_at)",
+        "detail": "axeapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "newtime",
+        "kind": 2,
+        "importPath": "axeapp.models",
+        "description": "axeapp.models",
+        "peekOfCode": "def newtime():\n    now = datetime.datetime.now()\n    timestamp = datetime.datetime.timestamp(now)\n    return timestamp\nclass Sivan(models.Model):\n    sivanna=models.TextField(blank=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.updated_at)\nclass Forest(models.Model):",
+        "detail": "axeapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sivanserial",
+        "kind": 6,
+        "importPath": "axeapp.serilizer",
+        "description": "axeapp.serilizer",
+        "peekOfCode": "class Sivanserial(serializers.ModelSerializer):\n    class Meta:\n        model=Sivan\n        fields='__all__'\nclass Forestserial(serializers.ModelSerializer):\n    class Meta:\n        model=Forest\n        fields='__all__'\nclass Arcticserial(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "axeapp.serilizer",
+        "documentation": {}
+    },
+    {
+        "label": "Forestserial",
+        "kind": 6,
+        "importPath": "axeapp.serilizer",
+        "description": "axeapp.serilizer",
+        "peekOfCode": "class Forestserial(serializers.ModelSerializer):\n    class Meta:\n        model=Forest\n        fields='__all__'\nclass Arcticserial(serializers.ModelSerializer):\n    class Meta:\n        model=Arctic\n        fields='__all__'\nclass Mysticserial(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "axeapp.serilizer",
+        "documentation": {}
+    },
+    {
+        "label": "Arcticserial",
+        "kind": 6,
+        "importPath": "axeapp.serilizer",
+        "description": "axeapp.serilizer",
+        "peekOfCode": "class Arcticserial(serializers.ModelSerializer):\n    class Meta:\n        model=Arctic\n        fields='__all__'\nclass Mysticserial(serializers.ModelSerializer):\n    class Meta:\n        model=Mystic\n        fields='__all__'\nclass Genesisserial(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "axeapp.serilizer",
+        "documentation": {}
+    },
+    {
+        "label": "Mysticserial",
+        "kind": 6,
+        "importPath": "axeapp.serilizer",
+        "description": "axeapp.serilizer",
+        "peekOfCode": "class Mysticserial(serializers.ModelSerializer):\n    class Meta:\n        model=Mystic\n        fields='__all__'\nclass Genesisserial(serializers.ModelSerializer):\n    class Meta:\n        model=Genesis\n        fields='__all__'\n#items data serializer \nclass Sivanserial(serializers.ModelSerializer):",
+        "detail": "axeapp.serilizer",
+        "documentation": {}
+    },
+    {
+        "label": "Genesisserial",
+        "kind": 6,
+        "importPath": "axeapp.serilizer",
+        "description": "axeapp.serilizer",
+        "peekOfCode": "class Genesisserial(serializers.ModelSerializer):\n    class Meta:\n        model=Genesis\n        fields='__all__'\n#items data serializer \nclass Sivanserial(serializers.ModelSerializer):\n    class Meta:\n        model=Sivan\n        fields='__all__'\nclass Sivanserial(serializers.ModelSerializer):",
+        "detail": "axeapp.serilizer",
+        "documentation": {}
+    },
+    {
+        "label": "Sivanserial",
+        "kind": 6,
+        "importPath": "axeapp.serilizer",
+        "description": "axeapp.serilizer",
+        "peekOfCode": "class Sivanserial(serializers.ModelSerializer):\n    class Meta:\n        model=Sivan\n        fields='__all__'\nclass Sivanserial(serializers.ModelSerializer):\n    class Meta:\n        model=Sivan\n        fields='__all__'",
+        "detail": "axeapp.serilizer",
+        "documentation": {}
+    },
+    {
+        "label": "Sivanserial",
+        "kind": 6,
+        "importPath": "axeapp.serilizer",
+        "description": "axeapp.serilizer",
+        "peekOfCode": "class Sivanserial(serializers.ModelSerializer):\n    class Meta:\n        model=Sivan\n        fields='__all__'",
+        "detail": "axeapp.serilizer",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "axeapp.urls",
+        "description": "axeapp.urls",
+        "peekOfCode": "urlpatterns = [\n   path(r'api/land/sivannah',views.SivnaView),\n   path(r'api/land/Forest',views.ForestView),\n   path(r'api/land/Arctic',views.ArcticView),\n   path(r'api/land/Mystic',views.MysticView),\n   path(r'api/land/Genesis',views.GenesisView),\n]",
+        "detail": "axeapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "TimetoScrape",
+        "kind": 2,
+        "importPath": "axeapp.views",
+        "description": "axeapp.views",
+        "peekOfCode": "def TimetoScrape(mode):\n    idr=mode.objects.values_list('updated_at', flat=True).first()\n    drdat=now()\n    rk=drdat-idr\n    idsr=rk.total_seconds()\n    settime=(idsr % 3600) // 60\n    return settime\n@api_view(['GET'])\ndef SivnaView(request):\n    task=Sivan.objects.all()",
+        "detail": "axeapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "SivnaView",
+        "kind": 2,
+        "importPath": "axeapp.views",
+        "description": "axeapp.views",
+        "peekOfCode": "def SivnaView(request):\n    task=Sivan.objects.all()\n    serializer=Sivanserial(task,many=True)\n    return Response(serializer.data)\n@api_view(['GET'])\ndef ForestView(request):\n    task=Forest.objects.all()\n    serializer=Forestserial(task,many=True)\n    return Response(serializer.data)\n@api_view(['GET'])",
+        "detail": "axeapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ForestView",
+        "kind": 2,
+        "importPath": "axeapp.views",
+        "description": "axeapp.views",
+        "peekOfCode": "def ForestView(request):\n    task=Forest.objects.all()\n    serializer=Forestserial(task,many=True)\n    return Response(serializer.data)\n@api_view(['GET'])\ndef ArcticView(request):\n    data=TimetoScrape(Arctic)\n    print(data,'--------------------')\n    task=Arctic.objects.all()\n    serializer=Arcticserial(task,many=True)",
+        "detail": "axeapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ArcticView",
+        "kind": 2,
+        "importPath": "axeapp.views",
+        "description": "axeapp.views",
+        "peekOfCode": "def ArcticView(request):\n    data=TimetoScrape(Arctic)\n    print(data,'--------------------')\n    task=Arctic.objects.all()\n    serializer=Arcticserial(task,many=True)\n    return Response(serializer.data)\n@api_view(['GET'])\ndef MysticView(request):\n    task=Mystic.objects.all()\n    serializer=Mysticserial(task,many=True)",
+        "detail": "axeapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "MysticView",
+        "kind": 2,
+        "importPath": "axeapp.views",
+        "description": "axeapp.views",
+        "peekOfCode": "def MysticView(request):\n    task=Mystic.objects.all()\n    serializer=Mysticserial(task,many=True)\n    return Response(serializer.data)\n@api_view(['GET'])\ndef GenesisView(request):\n    task=Genesis.objects.all()\n    serializer=Genesisserial(task,many=True)\n    return Response(serializer.data)\n# items Data views",
+        "detail": "axeapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "GenesisView",
+        "kind": 2,
+        "importPath": "axeapp.views",
+        "description": "axeapp.views",
+        "peekOfCode": "def GenesisView(request):\n    task=Genesis.objects.all()\n    serializer=Genesisserial(task,many=True)\n    return Response(serializer.data)\n# items Data views\n# @api_view(['GET'])\n# def SivnaView(request):\n#     task=Test.objects.all()\n#     serializer=testse(task,many=True)\n#     return Response(serializer.data)",
+        "detail": "axeapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Axie.asgi",
+        "description": "Axie.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Axie.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-dhw!j04hmug^j1-xk^3%0n!c+$&zl&g&viyp(a1-olmguy-8__'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-dhw!j04hmug^j1-xk^3%0n!c+$&zl&g&viyp(a1-olmguy-8__'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'axeapp',\n]",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'Axie.urls'",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "ROOT_URLCONF = 'Axie.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'Axie.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATETIME_FORMAT",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "DATETIME_FORMAT = '%Y-%m-%d %H:%M:%Ss'\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = False\nUSE_TZ = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = False\nUSE_TZ = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = False\nUSE_TZ = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = False\nUSE_TZ = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "USE_L10N = False\nUSE_TZ = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "USE_TZ = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Axie.settings",
+        "description": "Axie.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Axie.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Axie.urls",
+        "description": "Axie.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',include('axeapp.urls')),\n    path('admin/', admin.site.urls),\n]",
+        "detail": "Axie.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Axie.wsgi",
+        "description": "Axie.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Axie.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Axie.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
